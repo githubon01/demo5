@@ -1,0 +1,6 @@
+
+为本地计算机授权配置 获取地址https://dashboard.ngrok.com/get-started/setup
+ngrok authtoken 25PB8v34WUYIkwuvUkvHo3Hn4w0_3rK79hz1C5cHDjZoNyu76
+
+映射本地端口号
+ngrok http 9528
